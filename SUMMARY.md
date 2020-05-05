@@ -10,8 +10,3 @@
 
 * [springboot](springboot/springboot.md)
 
-<style>
-[class*="sidebarMain"] > [class*="footer"] {
-    display: none !important;
-}
-</style>
