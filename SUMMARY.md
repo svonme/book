@@ -9,4 +9,5 @@
 ## SpringBoot
 
 * [springboot](springboot/springboot.md)
+* [静态资源](springboot/jing-tai-zi-yuan.md)
 
